@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "AquaFresh",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "weight": 120,
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1581578731548-895f5c3b8b58"
+  },
+  {
+    "id": 2,
+    "name": "HydroMax",
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "weight": 480,
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1617196039897-5e4c6c2a97a3"
+  },
+  {
+    "id": 3,
+    "name": "PureSip",
+    "capacity": "750ml",
+    "material": "Glass",
+    "weight": 350,
+    "price": 600,
+    "image": "https://images.unsplash.com/photo-1622204904929-bbcff210e491"
+  },
+  {
+    "id": 4,
+    "name": "EcoBottle",
+    "capacity": "650ml",
+    "material": "Bamboo Fiber",
+    "weight": 220,
+    "price": 450,
+    "image": "https://images.unsplash.com/photo-1627200123545-3b5f1e64e1e4"
+  },
+  {
+    "id": 5,
+    "name": "ChillMate",
+    "capacity": "1.5L",
+    "material": "Plastic (BPA-Free)",
+    "weight": 250,
+    "price": 300,
+    "image": "https://images.unsplash.com/photo-1621261783494-3e05c4d8f5b0"
+  }
+]
